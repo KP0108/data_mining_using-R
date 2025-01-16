@@ -1,4 +1,4 @@
-##### Function to perform change point for each day###
+##### Function to perform change point for each day, adopted from Jun Li###
 ##Note, the function is created considered the equal change point for each data. to be specific, for each day, 4 changepoints will be detetcted using th below function
 ###User should have a good understanding of the data to predefine the number of changepoints. 
 ###To increase the changepoints, the code must be changed accordingly
