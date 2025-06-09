@@ -1,4 +1,4 @@
-##Git Test - Installed required libs
+##Git Test - Installed required libs from the web
 
 
 ##### Function to perform change point for each day, adopted from Jun Li###
