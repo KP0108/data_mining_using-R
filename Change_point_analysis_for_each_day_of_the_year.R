@@ -2,6 +2,8 @@
 
 ##adding second line to see whether I am doing the Push correctly
 
+##Test on the next day
+
 
 ##### Function to perform change point for each day, adopted from Jun Li###
 ##Note, the function is created considered the equal change point for each data. to be specific, for each day, 4 changepoints will be detetcted using th below function
